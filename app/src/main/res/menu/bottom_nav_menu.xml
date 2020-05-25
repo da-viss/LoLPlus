@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_champs"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Campeón" />
+
+    <item
+        android:id="@+id/navigation_habi"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="Habilidades" />
+
+    <item
+        android:id="@+id/navigation_comen"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Comentarios" />
+
+</menu>

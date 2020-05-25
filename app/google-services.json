@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "448894100719",
+    "firebase_url": "https://lolplus-afa7b.firebaseio.com",
+    "project_id": "lolplus-afa7b",
+    "storage_bucket": "lolplus-afa7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448894100719:android:d354928e05ff38f30de71a",
+        "android_client_info": {
+          "package_name": "net.azarquiel.lolplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448894100719-3ieqqmrb571u5pkjo3b8n7tri43oqj9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpnydtVuy6wr1UHKxmmK7M2W6SP8h8N8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448894100719-3ieqqmrb571u5pkjo3b8n7tri43oqj9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
